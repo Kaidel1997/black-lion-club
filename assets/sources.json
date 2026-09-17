@@ -1,0 +1,146 @@
+﻿[
+    {
+        "file":  "assets/originals/01.jpg",
+        "source":  "https://static.tildacdn.info/tild3037-6437-4533-b638-656134336565/__2.jpg",
+        "sha256":  "22AE33BCE7AE6EBBB53E8492FA7E17AC0F7480F83E147DE5E03FE3AF8D670358",
+        "bytes":  138302
+    },
+    {
+        "file":  "assets/originals/02.jpg",
+        "source":  "https://static.tildacdn.info/tild3132-3935-4161-b063-663030633134/photo.jpg",
+        "sha256":  "578B9B6ABCC679C567C9E4DC173A9B74495831AADFCCF6B46D1410A5E14B88A1",
+        "bytes":  107890
+    },
+    {
+        "file":  "assets/originals/03.svg",
+        "source":  "https://static.tildacdn.info/tild3137-6537-4430-b265-363235313166/1000003090.svg",
+        "sha256":  "5F9EF9DE23C5A6359880C306ADBDFE472F9B2FBB35FE4EC992FF65556FA87810",
+        "bytes":  19105
+    },
+    {
+        "file":  "assets/originals/04.jpg",
+        "source":  "https://static.tildacdn.info/tild3165-6562-4330-a661-616634393036/_.jpg",
+        "sha256":  "1288398A668C45CDAEF11263AF38B74A995A2893B9CAC70E8D7DF0C29D38288A",
+        "bytes":  225138
+    },
+    {
+        "file":  "assets/originals/05.jpg",
+        "source":  "https://static.tildacdn.info/tild3437-3466-4239-b264-303430636633/__2.jpg",
+        "sha256":  "0F433A45319989474FFAB5BD3E2034E22A004ED224CF0E68488691F86BD8798D",
+        "bytes":  106013
+    },
+    {
+        "file":  "assets/originals/06.jpg",
+        "source":  "https://static.tildacdn.info/tild3461-3066-4436-b334-383531326531/_.jpg",
+        "sha256":  "383F11A78DF9A2ACC82F85231D9C2D560E7E539412E49CB9AEA7083ACD3F3EFD",
+        "bytes":  293649
+    },
+    {
+        "file":  "assets/originals/07.jpg",
+        "source":  "https://static.tildacdn.info/tild3465-3230-4633-b439-616337653666/__1.jpg",
+        "sha256":  "C50D3D89EE45526BAFDEAC5FB931D88011342F6EBFBDCC3FA6436C530CBF724E",
+        "bytes":  103703
+    },
+    {
+        "file":  "assets/originals/08.jpg",
+        "source":  "https://static.tildacdn.info/tild3637-6666-4532-b736-326533373262/_.jpg",
+        "sha256":  "D967A50B3193C251507D78824F873F6C7F1951415AD96D686B7212C0BF29AB05",
+        "bytes":  19045
+    },
+    {
+        "file":  "assets/originals/09.svg",
+        "source":  "https://static.tildacdn.info/tild3761-3439-4031-b235-363535663566/1000003125.svg",
+        "sha256":  "FF9C0BCFA667B8C4817A7F3DBE953AE7A3A708E6EC9E8EA509F94A9320B4373F",
+        "bytes":  19593
+    },
+    {
+        "file":  "assets/originals/10.svg",
+        "source":  "https://static.tildacdn.info/tild3835-3261-4565-a538-363737303731/1000003108.svg",
+        "sha256":  "FD464918A49E2FAFA6765DCA16E2B1FA83C57F8ACAFFF016700FD9207DB4D7C4",
+        "bytes":  21365
+    },
+    {
+        "file":  "assets/originals/11.jpg",
+        "source":  "https://static.tildacdn.info/tild3836-6439-4335-b366-323061383238/_.jpg",
+        "sha256":  "2883D0ACD7491F49FBB15CA3CFB1E4A07439ADFA51BDF8D926A3DB1EB2E7AA51",
+        "bytes":  189041
+    },
+    {
+        "file":  "assets/originals/12.jpg",
+        "source":  "https://static.tildacdn.info/tild3838-3964-4630-b832-313034663433/_.jpg",
+        "sha256":  "3AF0E3F8B2645EE7B2E1CC88075473625AA9E5FE7B25FBBF6458943A475F578A",
+        "bytes":  158493
+    },
+    {
+        "file":  "assets/originals/13.jpg",
+        "source":  "https://static.tildacdn.info/tild3934-6535-4138-a365-386238313538/_.jpg",
+        "sha256":  "40F3053E9B9BD61CF6990122886546592DD5C316CB2726256EF60FBA864862B0",
+        "bytes":  210469
+    },
+    {
+        "file":  "assets/originals/14.jpg",
+        "source":  "https://static.tildacdn.info/tild3965-3464-4232-b565-653538646566/_9.jpg",
+        "sha256":  "F229C69B60BA35A495A5A0DC2BF54E6070434CD44380FDFF7FC8E3BC9136B596",
+        "bytes":  208054
+    },
+    {
+        "file":  "assets/originals/15.jpg",
+        "source":  "https://static.tildacdn.info/tild6135-6638-4332-b166-626135313263/_.jpg",
+        "sha256":  "E8439DF3A6327DBC4640C1EAE846415F1F5D1E9F13283B5CBAEEB7242196A6B9",
+        "bytes":  219560
+    },
+    {
+        "file":  "assets/originals/16.jpg",
+        "source":  "https://static.tildacdn.info/tild6161-3235-4333-b864-333338653763/photo_2023-09-08_23-.jpg",
+        "sha256":  "5F29D0870EB0E70A89F530CD50ECB5E4647F42BD0DD20C20C16D2123B19B3DA3",
+        "bytes":  89662
+    },
+    {
+        "file":  "assets/originals/17.jpg",
+        "source":  "https://static.tildacdn.info/tild6161-6439-4239-a531-353337666363/_DSC9512.jpg",
+        "sha256":  "961C42407252B567B4D8A6D6E925D9B904ADB2D9EBE9F1B02DF90EDF2B1B2E31",
+        "bytes":  225131
+    },
+    {
+        "file":  "assets/originals/18.jpg",
+        "source":  "https://static.tildacdn.info/tild6333-3935-4135-b230-363830326134/_.jpg",
+        "sha256":  "A963C7FF6225D20C4ADC9EDEC0AFE17087FD43A6A1F41EA7C8D94D65F54F9210",
+        "bytes":  245946
+    },
+    {
+        "file":  "assets/originals/19.jpg",
+        "source":  "https://static.tildacdn.info/tild6339-3137-4330-a265-343336363339/_.jpg",
+        "sha256":  "DB08E1E5AC975C7138B8CC5A7E6C3E6F85AF5C95E2CCC5D09E14E93C565CDECC",
+        "bytes":  255952
+    },
+    {
+        "file":  "assets/originals/20.jpg",
+        "source":  "https://static.tildacdn.info/tild6536-6534-4034-b232-343161343736/IMG_8164--_-32.jpg",
+        "sha256":  "21A1322D96632551ED76F02F83BF071DD267303A304C2F714B4952100CE898C1",
+        "bytes":  153637
+    },
+    {
+        "file":  "assets/originals/21.jpg",
+        "source":  "https://static.tildacdn.info/tild6632-6234-4362-a366-326335383061/_.jpg",
+        "sha256":  "B498FFF8DBD16C956CBF035D6C3C8FE35E25993CF1273EE06E84B1B11727D961",
+        "bytes":  203670
+    },
+    {
+        "file":  "assets/originals/22.jpg",
+        "source":  "https://static.tildacdn.info/tild6635-3465-4337-a537-373835353331/1000004221.jpg",
+        "sha256":  "D0E35C1973134D7CBA753D00766F9F10149C85ED3DF35E8E51275867BD0BFF57",
+        "bytes":  130522
+    },
+    {
+        "file":  "assets/originals/23.jpg",
+        "source":  "https://static.tildacdn.info/tild6637-6266-4531-b833-306639663231/_.jpg",
+        "sha256":  "82192147B76388A530802F52A943577099C60E1A063CC0A1633455BA90E0B415",
+        "bytes":  92515
+    },
+    {
+        "file":  "assets/originals/24.jpg",
+        "source":  "https://static.tildacdn.info/tild6639-3038-4839-b565-373963626334/__2.jpg",
+        "sha256":  "BE7738AB75C6C754C67E31C70135837462B1FEA37CFEA833AA8747E73E8E61F2",
+        "bytes":  92627
+    }
+]
